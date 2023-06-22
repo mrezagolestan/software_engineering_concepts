@@ -11,3 +11,7 @@ here is a place which i get my readings documented and visualized. you can take 
 
 please get me your feedback, i hope can get something better even a little with your feedback, so we take advantage socalized.
 
+
+### List of Subjects
+- **CAP theorem:** it believes you can provide every three Aspects (Consistency, Availability & Partition Tolerance) in monolith systems but in a distributed system you should make some considerations and make consistency or availability sacrifices.
+- ... (coming soon)
