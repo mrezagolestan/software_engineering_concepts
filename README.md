@@ -15,3 +15,8 @@ please get me your feedback, i hope can get something better even a little with 
 ### List of Subjects
 - **CAP theorem:** it believes you can provide every three Aspects (Consistency, Availability & Partition Tolerance) in monolith systems but in a distributed system you should make some considerations and make consistency or availability sacrifices.
 - ... (coming soon)
+
+
+
+### Help
+**What is drawings file type and how to read it?** this is a file which can be opened by www.draw.io website
