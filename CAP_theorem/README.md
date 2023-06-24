@@ -1,13 +1,13 @@
 
-#CAP theorem
+# CAP theorem
 
-##definition
+## definition
 it believes you can provide every three Aspects (Consistency, Availability & Partition Tolerance) in monolith systems but in a distributed system you should make some considerations and make consistency or availability sacrifices.
 <p align="center">
 <img src="diagram.jpg" width="100%"/>
 </p>
 
-##Concepts
+## Concepts
 `in a replicated system`
 - **Consistency**
   - every `read` receives the most recent write or an error.

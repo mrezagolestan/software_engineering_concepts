@@ -1,7 +1,7 @@
 
-#PACELC theorem
+# PACELC theorem
 
-##definition
+## definition
 `extension to CAP theorem` ** in case of **P**artitioning, trade-off between **A**vailability & **C**onsistency, **E**lse trade-off between **L**atency & **C**onsistency.
 
 CAP theorem doesn't talk about when a partition network failure:
@@ -9,7 +9,7 @@ CAP theorem doesn't talk about when a partition network failure:
 <img src="diagram.svg" width="60%"/>
 </p>
 
-##Concepts
+## Concepts
 - **Latency**
   - `general point of view` time delay between the cause and the effect of some physical change in the system being observed.
   - `in distributed system (multi-node database for instance)` time interval between the moment we send a request and the moment we are getting a corresponding response.
@@ -39,7 +39,7 @@ as we see in provided scenarios in above picture, we can control consistency & l
 **latency control:** balance between `R` & `W`
 
 
-##Databases
+## Databases
 DDBS | PA | PC                       | EL | EC
 --- |---|--------------------------| --- | ---
 MySQL Cluster | | <img src= "check.png"/>  | | <img src= "check.png"/>
