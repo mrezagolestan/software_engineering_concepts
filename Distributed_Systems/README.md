@@ -25,3 +25,5 @@ we focus on `horizontal scaling` in the Distributed Systems.
 ###Reliability
 - probability that a component of a system will perform a required function for a given period of time when used under operating conditions
 - ability to continue to operate even when facing different sorts of failures
+
+
