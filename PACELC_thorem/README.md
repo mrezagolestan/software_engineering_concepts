@@ -4,7 +4,7 @@
 ##definition
 `extension to CAP theorem` ** in case of **P**artitioning, trade-off between **A**vailability & **C**onsistency, **E**lse trade-off between **L**atency & **C**onsistency.
 
-CAP theorem doesn't talk about when a partition failure:
+CAP theorem doesn't talk about when a partition network failure:
 <p align="center">
 <img src="diagram.svg" width="60%"/>
 </p>
@@ -38,3 +38,27 @@ as we see in provided scenarios in above picture, we can control consistency & l
 
 **latency control:** balance between `R` & `W`
 
+
+##Databases
+DDBS | PA | PC                       | EL | EC
+--- |---|--------------------------| --- | ---
+MySQL Cluster | | <img src= "check.png"/>  | | <img src= "check.png"/>
+PostgreSQL | | <img src= "check.png"/>  | | <img src= "check.png"/>
+Bigtable/HBase | | <img src= "check.png"/>  | | <img src= "check.png"/>
+Megastore | | <img src= "check.png"/>  | | <img src= "check.png"/>
+VoltDB/H-Store | | <img src= "check.png"/>  | | <img src= "check.png"/>
+MongoDB | <img src= "check.png"/> |                          | | <img src= "check.png"/>
+Aerospike | <img src= "check.png"/> | paid only                | optional | <img src= "check.png"/>
+Cassandra | <img src= "check.png"/> |                          | <img src= "check.png"/>
+ScyllaDB | <img src= "check.png"/> |                          | <img src= "check.png"/>
+Riak | <img src= "check.png"/> |                          | <img src= "check.png"/>
+Dynamo | <img src= "check.png"/> |                          | <img src= "check.png"/> |
+Cosmos DB | | <img src= "check.png"/>  | <img src= "check.png"/> |
+PNUTS | | <img src= "check.png"/>  | <img src= "check.png"/> |
+Couchbase | | <img src= "check.png"/>  | <img src= "check.png"/> | <img src= "check.png"/>
+DynamoDB | | <img src= "check.png"/>  | <img src= "check.png"/> | <img src= "check.png"/>
+FaunaDB | | <img src= "check.png"/>  | <img src= "check.png"/> | <img src= "check.png"/>
+Hazelcast IMDG | <img src= "check.png"/> | <img src= "check.png"/>  | <img src= "check.png"/> | <img src= "check.png"/>
+
+
+* read more about Database PACELC details on: https://en.wikipedia.org/wiki/PACELC_theorem

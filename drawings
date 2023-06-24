@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:15:31.656Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iGrQ4Eud17caxpffGxtx" version="21.5.0" type="device" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-24T14:54:38.669Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H_CSNXFc1HPxPxFzhifI" version="21.5.0" type="device" pages="5">
   <diagram name="Overview" id="DhATOj2m3CdRGmeXXQUo">
-    <mxGraphModel dx="1839" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="qBB5Dbd-IHnaWnwdpPde-19" value="Distributed Systems" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-30" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qBB5Dbd-IHnaWnwdpPde-21" value="PACELC theorem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qBB5Dbd-IHnaWnwdpPde-21" value="PACELC theorem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-110" y="110" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBB5Dbd-IHnaWnwdpPde-24" value="ZOOKO triangle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -195,6 +195,12 @@
         </mxCell>
         <mxCell id="AGP3TPxim4iezPXm9GvX-1" value="read some articles about algorithms , principles , .... about deal with consistency and availability and partition tolerance of distributed systems" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="140" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6bc14fJfUOEhZKsCxkj-1" value="active-active + active-passive scenarios&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Distributed%20Systems%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22-30%22%20width%3D%22140%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="-200" width="1270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk6_332qchrE2QhazNMH-1" value="Distributed DB types" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-100" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -347,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mH9VWOjVvkhi1vqsCMX6" name="PACELC theorem">
-    <mxGraphModel dx="2899" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

@@ -12,9 +12,9 @@ please get me your feedback, i hope can get something better even a little with 
 
 ### List of Subjects
 - Distributed Systems: `*in the progress...*`
-- **CAP theorem:** it believes you can provide every three Aspects (Consistency, Availability & Partition Tolerance) in monolith systems but in a distributed system you should make some considerations and make consistency or availability sacrifices.
+  - **CAP theorem:** it believes you can provide every three Aspects (Consistency, Availability & Partition Tolerance) in monolith systems but in a distributed system you should make some considerations and make consistency or availability sacrifices.
   - **PACELC theorem**: extension to CAP theorem: ** in case of **P**artitioning, trade-off between **A**vailability & **C**onsistency, **E**lse trade-off between **L**atency & **C**onsistency.
-- ... (coming soon)
+  - ... (coming soon)
 
 
 
