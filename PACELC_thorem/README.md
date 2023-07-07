@@ -2,7 +2,7 @@
 # PACELC theorem
 
 ## definition
-`extension to CAP theorem` ** in case of **P**artitioning, trade-off between **A**vailability & **C**onsistency, **E**lse trade-off between **L**atency & **C**onsistency.
+`extension to CAP theorem` in case of **P**artitioning, trade-off between **A**vailability & **C**onsistency, **E**lse trade-off between **L**atency & **C**onsistency.
 
 CAP theorem doesn't talk about when a partition network failure:
 <p align="center">
